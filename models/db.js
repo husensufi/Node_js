@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 
 //define a url
 const mongoURL = "mongodb://localhost:27017/mydatabase";
+//const mongoURL = 'mongodb+srv://husensufi:<Mahisha>@cluster0.yt2wg.mongodb.net/'
 
 
 //connect a database
